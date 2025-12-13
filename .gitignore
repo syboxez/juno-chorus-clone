@@ -26,3 +26,6 @@ fp-info-cache
 /build/*
 
 *.log
+
+juno-chorus-clone-backups
+eurorack-smd-15v/juno-chorus-clone-backups
