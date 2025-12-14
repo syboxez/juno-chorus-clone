@@ -2904,7 +2904,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "Depth 100k"
 			(at 2.5 4.6 90)
 			(layer "F.Fab")
 			(uuid "4cb00c4c-0b38-4c00-9ff9-393e9a5e12d0")
@@ -16867,7 +16867,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "Rate 100k"
 			(at 2.5 4.6 90)
 			(layer "F.Fab")
 			(uuid "090546bc-21ec-48d6-85e0-0fe6c968f90d")
@@ -29648,7 +29648,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "Input 100k"
 			(at 2.5 4.6 0)
 			(layer "F.Fab")
 			(uuid "70c7eb6b-10c2-4843-90d1-69b58a6afce1")
