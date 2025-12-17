@@ -14244,7 +14244,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 0 5.28 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -48837,7 +48837,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 0 -5.28 90)
 			(layer "B.Fab")
 			(hide yes)

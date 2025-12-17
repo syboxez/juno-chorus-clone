@@ -22168,7 +22168,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 255.778 31.242 0)
 			(effects
 				(font
@@ -22471,7 +22471,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 119.38 247.65 0)
 			(effects
 				(font
@@ -22641,7 +22641,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 36.83 256.794 0)
 			(effects
 				(font
@@ -23017,7 +23017,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 120.65 264.16 0)
 			(effects
 				(font
@@ -23192,7 +23192,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 364.49 86.36 0)
 			(effects
 				(font
@@ -23296,7 +23296,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 298.45 43.18 0)
 			(effects
 				(font
@@ -23462,7 +23462,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 364.49 166.37 0)
 			(effects
 				(font
@@ -23632,7 +23632,7 @@
 				)
 			)
 		)
-		(property "Value" "TL084HID"
+		(property "Value" "TL074HID"
 			(at 77.47 245.11 0)
 			(effects
 				(font
